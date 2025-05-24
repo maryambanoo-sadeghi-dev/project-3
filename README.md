@@ -2,15 +2,11 @@
 
 - [Demo Project](https://maryambanoo-sadeghi-dev.github.io/project-3/)
   
-- ![Image](https://github.com/user-attachments/assets/91b6329a-21f4-4c80-af85-43eb9926a858)
+![Image](https://github.com/user-attachments/assets/2a962890-01f3-401d-b745-3e15b59cdb19)
 
- -![Image](https://github.com/user-attachments/assets/5e581bb8-f042-430a-b703-70246d52d4d2)
+![Image](https://github.com/user-attachments/assets/298af829-2bb2-4327-844e-3a972f5fd523)
 
-- ![Image](https://github.com/user-attachments/assets/283a6ee5-f789-4849-8ba9-e0b7a685a845)
-
-- ![Image](https://github.com/user-attachments/assets/73f6b6c0-c5bc-4978-af84-9604b871173f)
-
-- ![Image](https://github.com/user-attachments/assets/db479e5c-3449-45d8-ab26-96509fbb38f7)
+![Image](https://github.com/user-attachments/assets/a4108374-7026-42cc-8486-21c7a1549287)
 
 
 - 💻 Coded by maryam sadeghi
