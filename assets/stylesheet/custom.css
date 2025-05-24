@@ -1,0 +1,11 @@
+:root {
+    --favColorText: #ef7f7a;
+    --favColorTitr: #E5F0E6;
+}
+
+.titr {
+    color: var(--favColorTitr) !important;
+    line-height: 30px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
